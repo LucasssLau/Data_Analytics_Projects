@@ -51,10 +51,3 @@ The data used in this project includes details of every ride logged by Cyclistic
 
 - The data does not include personally identifiable information due to privacy concerns, which limits the ability to analyze user demographics.
 - Additionally, pricing data is not available.
-
-## Contributions
-
-Contributions to this project are welcome. You can contribute in the following ways:
-
-- **Issues**: Submit issues for bugs or feature requests.
-- **Pull Requests**: Submit a pull request to improve the analysis or documentation.
