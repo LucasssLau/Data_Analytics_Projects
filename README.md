@@ -6,6 +6,7 @@ This repository contains the analysis of bike-share data from the Cyclistic comp
 ## Repository Structure
 
 - The data source: https://divvy-tripdata.s3.amazonaws.com/index.html
+- `Data Description` : For better understanding data in the project
 - `main.ipynb`: Jupyter notebook containing the full analysis workflow, from data preparation to exploratory data analysis and data visualization.
 - `Data Analysis Cyclistic Bike-Share Analysis Case Study.pptx`: A PowerPoint presentation that summarizes the findings of the analysis. It includes visualizations and dashboards that highlight key patterns and trends observed in the data.
 
